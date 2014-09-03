@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: dtygel
+Contributors: dtygel, alantygel
 Tags: who owns your country, power networks, corporations, economy, politics, economic chain
 Requires at least: 3.6
 Tested up to: 3.8.1
